@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocationSaver</string>
+    <string name="yAxis">Y-axis</string>
+    <string name="xAxis">X-axis</string>
+    <string name="UseCurrentLocation">Use current location</string>
+    <string name="SaveButton">Save</string>
+    <string name="DeleteButton">Delete</string>
+    <string name="LocationTitle">Location Title</string> <!-->PlaceName-->
+    <string name="viewAllButton">View All</string>
+</resources>
